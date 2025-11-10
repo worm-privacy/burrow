@@ -22,6 +22,7 @@ Test on Debian/Ubuntu systems:
    git clone https://github.com/worm-privacy/miner && cd miner
    ```
 ## 4. Download parameters files:
+   Remove parameters from the old testnets: `rm -rf ~/.worm-miner` and then:
    ```
    make download_params
    ```

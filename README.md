@@ -2,6 +2,20 @@
 
 Here you will find the instructions to participate in the Burrow incentivized testnet! Users who will help us in testing the network may earn community allocations of the future WORM token!
 
+## Easy version (Join as a user!)
+
+If you’re interested in the innovative mining mechanism of the WORM project, you can easily participate in our testnet!
+
+1. Get some Sepolia ETH tokens (you can obtain them from faucets).
+2. Buy BETH tokens through the ETH/BETH Uniswap pool: https://app.uniswap.org/explore/pools/ethereum_sepolia/0x646b5eB499411390448b5e21838aCB8B2FF548dA
+3. Visit WORM’s web mining frontend: https://worm.cx/mine
+4. Connect your wallet and check your BETH balance.
+5. Participate in WORM epochs and claim your WORM tokens!
+
+(A detailed explanation of the participation logic is available at the conclusion of the next section.)
+
+## Professional version (Join as a miner!)
+
 In order to participate in the testnet you'll need:
 
 - [x] An x86-64 machine or VPS or dedicated-server with at least 16GB of RAM (***WARN:*** ARM / Apple Silicon devices are not supported!)

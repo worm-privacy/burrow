@@ -2,7 +2,7 @@
 
 Here you will find the instructions to participate in the Burrow incentivized testnet! Users who will help us in testing the network may earn community allocations of the future WORM token!
 
-## Easy version (Join as a user!)
+## Easy version (Join as a miner!)
 
 If you’re interested in the innovative mining mechanism of the WORM project, you can easily participate in our testnet!
 
@@ -14,7 +14,7 @@ If you’re interested in the innovative mining mechanism of the WORM project, y
 
 (A detailed explanation of the participation logic is available at the conclusion of the next section.)
 
-## Professional version (Join as a miner!)
+## Professional version (Join as a burner!)
 
 In order to participate in the testnet you'll need:
 
